@@ -1,6 +1,6 @@
-# proyecto01
-consiste en escribir un programa queimprime la frase "hola mundo" en pantalla o consola, los pasos son os siguientes:
-1.crea un nuevo proyecto
+## proyecto01
+###consiste en escribir un programa queimprime la frase "hola mundo" en pantalla o consola, los pasos son os siguientes:
+-crea un nuevo proyecto
 2. configura tu proyecto: "create new proyect", selecciona "empty activity", haz clic en "next". 
 En la siguiente pantalla introduce los detalles del proyecto: name: introduce "hola mundo", package name: introduce un nombre de paquete único (por ejemplo, com.ejemplo.holamundo), save location: elige una ubicación en tu computadora para guardar el proyecto lenguage: selecciona "java" o "kotlin"
 3. configura la actividad 
